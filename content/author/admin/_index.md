@@ -87,4 +87,4 @@ email = "yurigpavlov@gmail.com"
 #   icon_pack = "ai"
 #   link = "files/cv.pdf"
 
-
++++

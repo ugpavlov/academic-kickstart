@@ -1,5 +1,5 @@
 +++
-title = "Geographical {Stability} of {Category} {Norms} for {Russian} {Language}"
+title = "Geographical Stability of Category Norms for Russian Language"
 date = "2016-01-01"
 authors = ["Olga P. Marchenko", "Tatyana N. Bandurka", "Yuri G. Pavlov"]
 publication_types = ["2"]

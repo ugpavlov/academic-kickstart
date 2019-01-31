@@ -19,11 +19,11 @@ bio = ""
 email = "yurigpavlov@gmail.com"
 
 # List (academic) interests or hobbies
-interests = [
-  "Classical conditioning",
-  "EEG",
-  "Working memory",
-  "Disorders of Consciousness"
+# interests = [
+#   "Classical conditioning",
+#   "EEG",
+#    "Working memory",
+#   "Disorders of Consciousness"
 ]
 
 # List qualifications (such as academic degrees)

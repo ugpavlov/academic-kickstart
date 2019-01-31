@@ -1,5 +1,5 @@
 +++
-title = "A {Systematic} {Review} and {Meta}-{Analysis} of the {Relationship} {Between} {Brain} {Data} and the {Outcome} in {Disorders} of {Consciousness}"
+title = "A Systematic Review and Meta-Analysis of the Relationship Between Brain Data and the Outcome in Disorders of Consciousness"
 date = "2018-01-01"
 authors = ["Boris Kotchoubey", "Yuri G. Pavlov"]
 publication_types = ["2"]

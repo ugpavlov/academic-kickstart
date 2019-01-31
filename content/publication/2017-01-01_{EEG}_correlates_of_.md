@@ -1,5 +1,5 @@
 +++
-title = "{EEG} correlates of working memory performance in females"
+title = "EEG correlates of working memory performance in females"
 date = "2017-01-01"
 authors = ["Yuri G. Pavlov", "Boris Kotchoubey"]
 publication_types = ["2"]

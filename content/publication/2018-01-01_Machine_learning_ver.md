@@ -1,5 +1,5 @@
 +++
-title = "Machine learning versus human expertise: the case of sleep stage classification in {Disorders} of {Consciousness}. {Response} to {Wislowska} et al"
+title = "Machine learning versus human expertise: the case of sleep stage classification in Disorders of Consciousness. Response to Wislowska et al"
 date = "2018-01-01"
 authors = ["Boris Kotchoubey", "Yuri G. Pavlov"]
 publication_types = ["2"]

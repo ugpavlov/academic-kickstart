@@ -1,5 +1,5 @@
 +++
-title = "Approaches to sleep in severely brain damaged patients: {Opposite} or complementary? {Reply} to “{Sleep} and {Circadian} {Rhythms} in {Severely} {Brain}-{Injured} {Patients} - {A} {Comment}”"
+title = "Approaches to sleep in severely brain damaged patients: Opposite or complementary? Reply to “Sleep and Circadian Rhythms in Severely Brain-Injured Patients - A Comment”"
 date = "2018-01-01"
 authors = ["Boris Kotchoubey", "Yuri G. Pavlov"]
 publication_types = ["2"]

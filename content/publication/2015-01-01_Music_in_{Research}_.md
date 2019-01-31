@@ -1,5 +1,5 @@
 +++
-title = "Music in Research}and Rehabilitation of Disorders of Consciousness: Psychological and Neurophysiological Foundations"
+title = "Music in Research and Rehabilitation of Disorders of Consciousness: Psychological and Neurophysiological Foundations"
 date = "2015-01-01"
 authors = ["B. Kotchoubey", "Yuri G. Pavlov", "Boris Kleber"]
 publication_types = ["2"]

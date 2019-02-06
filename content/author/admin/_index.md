@@ -63,7 +63,7 @@ email = "yurigpavlov@gmail.com"
 [[social]]
   icon = "envelope"
   icon_pack = "fas"
-  link = "#contact"  # For a direct email link, use "mailto:yurigpavlov@gmail.com".
+  link = "mailto:yurigpavlov@gmail.com"  # For a direct email link, use "mailto:yurigpavlov@gmail.com".
 
 [[social]]
   icon = "twitter"
